@@ -41,7 +41,7 @@ This is a short project and has done with minimal prototype for the given requir
 		----> testsuite.py
 		----> Readme.txt
 		----> Mobile Phone Masts.csv
-		----> blinktest
+		----> binktest
 			  ------> __init__.py
 			  ------> masts.py
 			  ------> csv_file_process.py
